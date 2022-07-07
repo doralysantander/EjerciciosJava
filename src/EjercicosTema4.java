@@ -18,14 +18,15 @@ public class EjercicosTema4 {
             System.out.println("ciclowhile " + numeroWhile);
     }
 //********+TERCER EJERCICIO*************
+        int numeroDowhile = 3;
         do{
 
-            System.out.println("numero dowhile" + numeroWhile);
-            numeroWhile++;
+            System.out.println("numero dowhile" +numeroDowhile);
+            numeroDowhile++;
             break;
 
 
-        }while(numeroWhile < 3);
+        }while(numeroDowhile < 3);
 
         //********CUARTO EJERCICIO*************
 
