@@ -23,7 +23,7 @@ public class EjercicosTema4 {
 
             System.out.println("numero dowhile" +numeroDowhile);
             numeroDowhile++;
-            break;
+
 
 
         }while(numeroDowhile < 3);
