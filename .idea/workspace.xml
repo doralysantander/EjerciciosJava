@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52cd299f-531b-4282-95de-a641cb032429" name="Changes" comment="EjercicioTema4 Introduccion a la programación">
+    <list default="true" id="52cd299f-531b-4282-95de-a641cb032429" name="Changes" comment="correcion ciclo do while..">
+      <change afterPath="$PROJECT_DIR$/src/EjerciciosTema8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/EjercicosTema4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjercicosTema4.java" afterDir="false" />
     </list>
@@ -38,9 +39,16 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EjercicosTema4">
+  <component name="RunManager" selected="Application.EjerciciosTema8">
     <configuration name="EjercicioTema3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjercicioTema3" />
+      <module name="PracticandoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjerciciosTema8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosTema8" />
       <module name="PracticandoJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -55,6 +63,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjerciciosTema8" />
         <item itemvalue="Application.EjercicosTema4" />
         <item itemvalue="Application.EjercicioTema3" />
       </list>
@@ -90,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657211105782</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="correcion ciclo do while">
+      <created>1657211973313</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657211973313</updated>
+    </task>
+    <task id="LOCAL-00005" summary="correcion ciclo do while..">
+      <created>1657212104336</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657212104336</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +130,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ejercicio tema 3 funcion y objetos" />
     <MESSAGE value="EjercicioTema4 Introduccion a la programación" />
-    <option name="LAST_COMMIT_MESSAGE" value="EjercicioTema4 Introduccion a la programación" />
+    <MESSAGE value="correcion ciclo do while" />
+    <MESSAGE value="correcion ciclo do while.." />
+    <option name="LAST_COMMIT_MESSAGE" value="correcion ciclo do while.." />
   </component>
 </project>
