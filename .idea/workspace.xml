@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52cd299f-531b-4282-95de-a641cb032429" name="Changes" comment="correcion ciclo do while..">
-      <change afterPath="$PROJECT_DIR$/src/EjerciciosTema8.java" afterDir="false" />
+    <list default="true" id="52cd299f-531b-4282-95de-a641cb032429" name="Changes" comment="Ejercico Tema 8 Introducción a la programación">
+      <change afterPath="$PROJECT_DIR$/src/EjercicioTema9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EjercicosTema4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EjercicosTema4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,13 +34,20 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/CURSOS/OPENBOOTCAMP/JAVA/PracticandoJava",
+    "last_opened_file_path": "D:/CURSOS/OPENBOOTCAMP/JAVA/Ejercicios",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EjerciciosTema8">
+  <component name="RunManager" selected="Application.EjercicioTema9">
     <configuration name="EjercicioTema3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EjercicioTema3" />
+      <module name="PracticandoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjercicioTema9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjercicioTema9" />
       <module name="PracticandoJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,6 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EjercicioTema9" />
         <item itemvalue="Application.EjerciciosTema8" />
         <item itemvalue="Application.EjercicosTema4" />
         <item itemvalue="Application.EjercicioTema3" />
@@ -113,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657212104336</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Ejercico Tema 8 Introducción a la programación">
+      <created>1657231883918</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657231883918</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +146,7 @@
     <MESSAGE value="EjercicioTema4 Introduccion a la programación" />
     <MESSAGE value="correcion ciclo do while" />
     <MESSAGE value="correcion ciclo do while.." />
-    <option name="LAST_COMMIT_MESSAGE" value="correcion ciclo do while.." />
+    <MESSAGE value="Ejercico Tema 8 Introducción a la programación" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercico Tema 8 Introducción a la programación" />
   </component>
 </project>
